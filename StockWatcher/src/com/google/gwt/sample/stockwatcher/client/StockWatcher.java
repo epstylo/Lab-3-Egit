@@ -24,6 +24,7 @@ import com.google.gwt.user.client.ui.VerticalPanel;
 import com.google.gwt.user.client.rpc.AsyncCallback;
 import com.google.gwt.core.client.GWT;
 
+//added this comment to StockWatcher.java 11:11AM 09/26/2014
 
 public class StockWatcher implements EntryPoint {
 
